@@ -7,7 +7,7 @@ export default defineConfig({
   name: 'default',
   title: 'maley_jsm',
 
-  projectId: 'wldtfl3z',
+  projectId: 'rrzxb7yx',
   dataset: 'production',
 
   plugins: [deskTool(), visionTool()],
